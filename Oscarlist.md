@@ -49,7 +49,7 @@ db.oscars.distinct("cerimonia").length;
 
 **1.6** Atualize os registros da coleção com os dados do Oscar 2025 e 2026 (pesquise os vencedores e adicione-os).
 
-R: id_registro:999001,
+R: "id_registro:999001,
 ano_filmagem:2024,
 ano_cerimonia:2025,
 cerimonia:97,
@@ -58,7 +58,7 @@ nome_do_indicado:"Anora",
 nome_do_filme:"Anora",
 vencedor:"true"
 
-id_registro:999002,
+"id_registro:999002,
 ano_filmagem:2024,
 ano_cerimonia:2025,
 cerimonia:97,
